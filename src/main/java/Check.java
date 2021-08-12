@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Check {
+public class Check {
+
+    public void checkGitHub(){
+        System.out.println("checking GitHub");
+    }
+
 }
